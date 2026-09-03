@@ -19,6 +19,7 @@ High-performance, platform-native Windows utilities engineered for zero bloat, m
 | :--- | :--- | :--- |
 | **KerkenezMail** | Native, ultra-lightweight background email notifier and summarizer. | Active |
 | **KerkenezCalendar** | Fast, local desktop calendar with sync from mail accounts and agenda planner. | Open Beta |
+| **KerkenezSuit** | A single Installer/Updater that integrates the Programs tighter and **lighter** | Concept / Tooling|
 | **KerkenezRazer** | Low-overhead native battery telemetry daemon for Razer wireless gear. | Concept / Tooling |
 
 ---
