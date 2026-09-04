@@ -20,7 +20,7 @@ High-performance, platform-native Windows utilities engineered for zero bloat, m
 | **KerkenezMail** | Native, ultra-lightweight background email notifier and summarizer. | Active |
 | **KerkenezCalendar** | Fast, local desktop calendar with sync from mail accounts and agenda planner. | Open Beta |
 | **KerkenezSpeech** | A Local lightweight speech to text system tray tool with diffrent models option and sub mb idle working set goal. | Pre-release |
-| **KerkenezVoice** | Lightweight UI and managment board for Kokoro with advanced tooling. | Pre-release Development |
+| **KerkenezVoice** | Lightweight UI and managment board for Kokoro with advanced tooling. | Pre-release |
 | **KerkenezSuite** | A single Installer/Updater that integrates the Programs tighter and **lighter** | Concept / Tooling|
 | **KerkenezRazer** | Low-overhead native battery telemetry daemon for Razer wireless gear. | Concept / Tooling |
 
